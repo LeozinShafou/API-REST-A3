@@ -3,7 +3,7 @@
 Projeto da disciplina de Sistemas Distribuídos e Mobile (A3).
 
 ## Autor
-- Leonardo Cauã Gomes Rodrigues - RA: 323220946
+- Leonardo Cauã - RA: 323220946
 
 ## Tecnologias
 - Node.js
